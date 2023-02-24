@@ -1,4 +1,3 @@
-using 
 using System;
 using ElmahCore;
 using ElmahCore.Mvc;
@@ -11,7 +10,6 @@ using OpenTelemetry.Exporter.OpenTelemetryProtocol;
 using OpenTelemetry.Logs;
 using dotnetMysql.Api.Filters;
 using dotnetMysql.Business.Installer;
-using System;
 using OpenTelemetry.Exporter;
 using OpenTelemetry.Exporter.OpenTelemetryProtocol;
 using OpenTelemetry.Logs;
