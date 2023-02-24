@@ -9,7 +9,7 @@ using Microsoft.OpenApi.Models;
 using OpenTelemetry.Exporter;
 using OpenTelemetry.Exporter.OpenTelemetryProtocol;
 using OpenTelemetry.Logs;
-dotnetMysql.Api.Filters;
+using dotnetMysql.Api.Filters;
 using dotnetMysql.Business.Installer;
 using System;
 using OpenTelemetry.Exporter;
